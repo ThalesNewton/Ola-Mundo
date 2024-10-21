@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro Repositório  do Gurso git e Github
+# Olá Mundo!
+ Primeiro Repositório  do Curso git e Github
+ 
+Repositorio criado para meus testes
